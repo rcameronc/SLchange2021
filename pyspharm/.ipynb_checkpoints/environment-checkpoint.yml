@@ -1,0 +1,19 @@
+name: pyspharm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - cartopy
+  - python
+  - pip
+  - netcdf4
+  - jupyter
+  - jupyterlab
+  - memory_profiler
+  - pyspharm
+  - cmocean
+  - pip:
